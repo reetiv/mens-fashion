@@ -40,7 +40,9 @@
     background-color: gray;
     border: none;
 }
-
+.footer-logo{
+    width: 350px;
+    height: 200px;
 /*Media Query */
 
 @media (max-width: 750px) {
