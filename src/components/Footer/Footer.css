@@ -41,8 +41,8 @@
     border: none;
 }
 .footer-logo {
-    width: 350px;   /* This is the standard size for the original template */
-    height: 200px;    /* This keeps the hat from looking squashed */
+    width: 35px;   /* This is the standard size for the original template */
+    height: 20px;    /* This keeps the hat from looking squashed */
     margin-bottom: 10px;
 }
 /*Media Query */
